@@ -1,0 +1,55 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.inputgroup{
+    background-image: url(../images/search.png);
+    background-repeat: no-repeat;   
+} 
+span {
+    color: #198754;
+}
+h5 {
+    font-weight: 700;
+    font-size: 40px;
+}
+
+.text-content2 {
+     font-size: 16px;
+}
+
+.btn-content2 {
+    font-size: 24px;
+    color: white;
+}
+
+h6 {
+    font-weight: 500;
+    font-size: 40px
+}
+
+.text-content3 {
+    font-size: 16px;
+}
+h4{
+    font-weight: 400;
+    font-size: 40px;
+}
+.text-content4 {
+    font-weight: 500;
+    font-size: 20px;
+}
+.button-content4 a{
+    background-color: #198754;
+    color: white;
+}
+.content-5{
+    background-color: #198754;
+}
+.text-content5 {
+    font-weight: 700;
+    font-size: 40px;
+    color: rgba(255, 255, 255, 0.75)
+}
+.content-5 p {
+    color: rgba(255, 255, 255, 0.75)
+}

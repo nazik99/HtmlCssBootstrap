@@ -1,0 +1,133 @@
+body{
+    font-family: 'Inter',
+    sans-serif;
+    color: #232536;
+}
+.navbarback {
+    background-color: #232536;
+    
+}
+.navbartext li a{
+    color: white;
+    font-size: 16px;
+    font-weight: 400;
+}
+.btn-navbar{
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.link-content2{
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 100px;
+}
+
+.content-2{
+    background-image: url(../images/main-pic.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+}
+.content2-text{
+    font-size: 56px;
+    font-weight: 700;
+    margin-top: 150px;
+}
+.content2-text2{
+    font-size: 20px;
+    font-weight: 400;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+h2{
+    font-size: 40px;
+    font-weight: 600;
+}
+.content3-bgcolor{
+    background-color: #F5F3F3;
+}
+.content3-title{
+    font-size: 28px;
+    font-weight: 600;
+    
+}
+.content3-text{
+    font-size: 16px;
+    font-weight: 400;
+    color: #6D6E76;
+}
+h3{
+    font-size: 40px;
+    font-weight: 600;
+}
+h5{
+    margin-top: 70px;
+     font-size: 28px;
+     font-weight: 700;
+}
+.bg-pictures1{
+    background-image: url(../images/ic-business.png);
+    background-repeat: no-repeat;
+    background-position: 50% 17%;
+}
+.bg-pictures2{
+    background-image: url(../images/ic-startup.png);
+    background-repeat: no-repeat;
+    background-position: 50% 17%;
+}
+.bg-pictures3 {
+    background-image: url(../images/ic-economy.png);
+    background-repeat: no-repeat;
+    background-position: 50% 17%;
+}
+.bg-pictures4 {
+    background-image: url(../images/ic-technology.png);
+    background-repeat: no-repeat;
+    background-position: 50% 17%;
+}
+.content5-title{
+    font-size: 44px;
+    font-weight: 700;
+}
+.content5-text{
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 50px;
+}
+.link-content5 {
+    font-size: 20px;
+    font-weight: 700;  
+}
+.content5-bgcolor{
+    background-color: rgba(255, 208, 80, 0.50);
+}
+.title-content6{
+    font-size: 24px;
+    font-weight: 700;
+    margin-top: 0;
+    text-align: center;
+}
+.content6-text{
+    font-size: 14px;
+    font-weight: 400;
+    text-align: center;
+}
+.link-content6 {
+    font-size: 20px;
+    font-weight: 700;
+}
+.img-content6{
+    border-radius: 50%;
+    max-width: 150px;
+    margin: 10px auto 4px auto;
+}
+.card-bg{
+    background-color: #F5F3F3;
+    
+}
+.content-6 h6 {
+    font-size: 40px;
+    font-weight: 600;
+   text-align:center;
+}
